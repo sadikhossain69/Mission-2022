@@ -105,3 +105,14 @@ footer{
 small{
     font-weight: lighter;
 }
+
+.Myself-section{
+    text-align: center;
+    background-color: rgb(162, 152, 192);
+    
+    padding: 20px 5px;
+}
+
+.Myself-section h2{
+    font-size: 50px;
+}
